@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ... 
-- 🕰 Learn more about me and my past projects here
+- 🕰 Learn more about me and my past projects here[]
 
 # How to reach me:
 
-💼 LinkedIn: [(https://www.linkedin.com/in/desmondfrimpong/)]
-📧 Email: [aljisal.frimpong@gmail.com]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/desmondfrimpong/)]
+- 📧 Email: [aljisal.frimpong@gmail.com]
