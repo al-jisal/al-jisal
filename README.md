@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Desmond 👋
 
-<!--
-**al-jisal/al-jisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Colby College Grad 2026 — Computer Science  
+💻 Software Engineer 
+⚙️ Done work in Web Development, Machine Learning, and Operating System 
+🌍 Building impactful, real-world applications 
 
-Here are some ideas to get you started:
+-- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's up with me
+
+🌱 I’m currently learning ...
+🔭 I’m currently working on ... 
+🕰 Learn more about me and my past projects here
+
+-- 
+
+## How to reach me:
+
+💼 LinkedIn: [(https://www.linkedin.com/in/desmondfrimpong/)]
+📧 Email: [aljisal.frimpong@gmail.com]
