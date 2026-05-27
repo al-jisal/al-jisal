@@ -7,8 +7,8 @@
 
 # What's up with me
 
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning **Mathematical Proofs**
+- 🔭 I’m currently working on: **Interview Prep**
 - 🕰 Learn more about me and my past projects here[]
 
 # How to reach me:
